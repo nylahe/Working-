@@ -1,0 +1,65 @@
+commit 5587b38a1c07e3686e291643dbe711fe5b3f8669
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Mon Jan 20 20:35:14 2025 -0600
+
+    spelling error in README.md file
+
+commit 436aa33b0eacc4c528b534f3c0dd03e86aebca72
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Mon Jan 20 20:32:30 2025 -0600
+
+    added git version number
+
+commit b198b5dc450ad001ec8da4f99a563d00fc2d71f6
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Mon Jan 20 20:17:24 2025 -0600
+
+    added student ID to README.md in Testing branch
+
+commit 2f79a6c0e78bc05f87a97042a9820c08e1299f7c
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Mon Jan 20 19:52:47 2025 -0600
+
+    switch
+
+commit 95ecef85e76326a898ed6c9418c595f254483861
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Mon Jan 20 18:01:45 2025 -0600
+
+    added final HTML file to working branch
+
+commit 099d646460ff755b98908a34ca0eed9a4d6e139a
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Mon Jan 20 18:00:32 2025 -0600
+
+    created and added second HTML file
+
+commit 25fcbf3c88f2af68b3a89a5ffd0c87c985afe353
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Mon Jan 20 17:59:19 2025 -0600
+
+    created first HTML file
+
+commit c493ff0ec4face3d23f5186da6fe2f272e817bcc
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Mon Jan 20 17:33:22 2025 -0600
+
+    added working branch
+
+commit f3bcd221353901c1d05ff580956e7abdd5e6b2f5
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Mon Jan 20 17:31:30 2025 -0600
+
+    added working branch to main
+
+commit 5cb1a1111a45ba67f51da63ed55fe93c0633db28
+Author: Nylah Encalade <nylahencalade@icloud.com>
+Date:   Mon Jan 20 17:29:37 2025 -0600
+
+    added Working branch
+
+commit aacdfa8024be87bca8f3facd3e2ea813583fe489
+Author: nylahe <nylahencalade@icloud.com>
+Date:   Mon Jan 20 17:02:42 2025 -0600
+
+    Initial commit
